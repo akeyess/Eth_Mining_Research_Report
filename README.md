@@ -1,5 +1,4 @@
-# Etheruem Mining Research
-# Ethereum Mining Analysis
+# Etheruem Mining Research and Analysis
 ### Abstract
 Ethereum Mining Research conducted to find out personally intriguing questions.
 
