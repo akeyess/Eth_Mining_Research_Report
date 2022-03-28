@@ -7,6 +7,8 @@ Project inspecting relationship between personal ethereum mining revenue, and av
 
 # Personal Ethereum Mining Revenue Compared to Reported Average 
 
+## Introduction 
+
   Ethereum (ETH) mining revenue is nothing new, yet still a practice new to so many. Blockchain technology is the protocol of ETH’s network operability and a passion that I participate in through ETH mining (Proof of Work). Revenue analysis of personal mining operations compared to the reported network average would reveal whether my machine outperformed the network in revenue relative to megahash. This study inspects the relationship between personal ETH mining revenue in US dollars and reported average mining revenue in US dollars. 
   
    ETH is a cryptocurrency, currently operating under a Proof of Work (PoW) mechanism. PoW is a decentralized consensus protocol, in which miners: do the work, provide proof of their work, and act as directors of validation within the ETH ecosystem. ETH miners provide a “certificate of legitimacy” for transactions, balances, and market order. 
@@ -31,7 +33,7 @@ Project inspecting relationship between personal ethereum mining revenue, and av
 	
   BitInfoChart aggregates a historical chart of ETH’s mining profitability in USD per day for one megahash. Multiple timelines are available with daily data points from 3-months to 3-years to even all-time (7/30/15).
 
-# Procedures
+## Procedures
 
   15 weeks of personal mining revenue was gathered from November 28th, 2021 (Week 48, 2021) to March 18, 2022 (Week 12, 2022) with a mining rig averaging 170 megahash through Ethermine. Data was grouped weekly Sunday-Saturday, with the United States Dollar (USD) price of 1 ETH listed for the corresponding week. Revenue in ETH was multiplied with the price of 1 ETH each week to create a weekly estimate of personal miner revenue in USD.
   
