@@ -14,7 +14,7 @@ Project inspecting relationship between personal ethereum mining revenue, and av
 
 ## Introduction 
 
-  Ethereum (ETH) mining revenue is nothing new, yet still a practice new to so many. Blockchain technology is the protocol of ETH’s network operability and a passion that I participate in through ETH mining (Proof of Work). Revenue analysis of *personal mining operations* compared to the *reported network average* would reveal whether my machine outperformed the network in revenue relative to megahash. This study inspects the relationship between personal ETH mining revenue in US dollars and reported average mining revenue in US dollars. 
+  Ethereum (ETH) mining revenue is nothing new, yet still a practice new to so many. Blockchain technology is the protocol of ETH’s network operability and a passion that I participate in through ETH mining (*Proof of Work*). Revenue analysis of *personal mining operations* compared to the *reported network average* would reveal whether my machine outperformed the network in revenue relative to megahash. This study inspects the relationship between personal ETH mining revenue in US dollars and reported average mining revenue in US dollars. 
   
    ETH is a cryptocurrency, currently operating under a *Proof of Work* (PoW) mechanism. PoW is a decentralized consensus protocol, in which miners: do the work, provide proof of their work, and act as directors of validation within the ETH ecosystem. ETH miners provide a “certificate of legitimacy” for transactions, balances, and market order. 
 
