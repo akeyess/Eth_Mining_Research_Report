@@ -1,6 +1,6 @@
 # Personal Ethereum Mining Revenue Compared to Reported Average
 
-#### B.A. Andrew Keyes 	![TrendChart](C:/Users/andre/Research/ETHrevenue/ETHRevenueLineChart.png)
+#### B.A. Andrew Keyes 
 
 #### Bachelor of Arts in Experimental Psychology
 
@@ -47,6 +47,8 @@ Reported average daily mining revenue collected on BitInfoChart was transformed 
 # Results
 
   A paired samples t-test conducted with SPSS on personal mining revenue in USD (M= 46.51, SD= 16.81, N= 16) and reported average revenue in USD (M= 58.23, SD= 15.12, N= 16) revealed a significant difference of revenue; t(15)= 6.1, p = .001. Results fail to reject the hypothesis, personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue. Proving the personal miner is under performing based on the average reported revenue. 	
+  
+  ![TrendChart](https://raw.githubusercontent.com/akeyess/Eth_Mining_Research/main/ETHRevenueLineChart.png)
   
   Visual analysis depicts clear discrepancies each week in ETH mining revenue between personal and reported rates. The initial revenue found in the first week, week 49 2021, is the closest the two values are throughout the whole study, a 0.58 cent difference. The line chart displays the downward trend of ETH mining revenue over the course of the study. Based on visual analysis, revenue is lower and drops are more significant in personal mining than in the reported average.
 
