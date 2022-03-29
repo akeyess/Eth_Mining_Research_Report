@@ -1,11 +1,16 @@
-# Etheruem Mining Research and Analysis
+#### B.A. Andrew Keyes
+
+#### Bachelor of Arts in Experimental Psychology
+
+#### Department of Psychology, California State University, Stanislaus
+
+# Personal Ethereum Mining Revenue Compared to Reported Average 
+
 ### Abstract
 Ethereum Mining Research conducted to find out personally intriguing questions.
 
-
 Project inspecting relationship between personal ethereum mining revenue, and average eth mining revenue.
 
-# Personal Ethereum Mining Revenue Compared to Reported Average 
 
 ## Introduction 
 
