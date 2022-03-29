@@ -45,10 +45,8 @@ Project inspecting relationship between personal ethereum mining revenue, and av
 Reported average daily mining revenue collected on BitInfoChart was transformed into weekly revenue averages in USD per 1 megahash. To create an estimate of reported average mining revenue in USD relative to the hashrate output of the personal miner, weekly avg USD per 1 megahash was multiplied with 170. 
 
 # Results
-
-  ![Paired T-Test Results](https://github.com/akeyess/Eth_Mining_Research/blob/main/ETHrevenuePariedTtest.pdf)
   
-  A paired samples t-test conducted with SPSS on personal mining revenue in USD (M= 46.51, SD= 16.81, N= 16) and reported average revenue in USD (M= 58.23, SD= 15.12, N= 16) revealed a significant difference of revenue; t(15)= 6.1, p = .001. Results fail to reject the hypothesis, personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue. Proving the personal miner is under performing based on the average reported revenue. 	
+  A ![Paired Samples T-Test](https://github.com/akeyess/Eth_Mining_Research/blob/main/ETHrevenuePariedTtest.pdf) conducted on SPSS comparing personal mining revenue in USD (M= 46.51, SD= 16.81, N= 16) and reported average revenue in USD (M= 58.23, SD= 15.12, N= 16) revealed a significant difference in revenue; t(15)= 6.1, p = .001. Results fail to reject the hypothesis, personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue. Proving the personal miner is under performing based on the average reported revenue. 	
   
   ![TrendChart](https://raw.githubusercontent.com/akeyess/Eth_Mining_Research/main/ETHRevenueLineChart.png)
   
