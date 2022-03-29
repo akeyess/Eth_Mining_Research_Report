@@ -1,6 +1,6 @@
 # Personal Ethereum Mining Revenue Compared to Reported Average
 
-#### B.A. Andrew Keyes 	![alt text](image.jpg)
+#### B.A. Andrew Keyes 	![TrendChart](C:/Users/andre/Research/ETHrevenue/ETHRevenueLineChart.png)
 
 #### Bachelor of Arts in Experimental Psychology
 
