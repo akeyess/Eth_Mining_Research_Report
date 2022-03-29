@@ -1,10 +1,10 @@
-#### B.A. Andrew Keyes
+# Personal Ethereum Mining Revenue Compared to Reported Average
+
+#### B.A. Andrew Keyes 	![alt text](image.jpg)
 
 #### Bachelor of Arts in Experimental Psychology
 
 #### Department of Psychology, California State University, Stanislaus
-
-# Personal Ethereum Mining Revenue Compared to Reported Average 
 
 ### Abstract
 Ethereum Mining Research conducted to find out personally intriguing questions.
