@@ -6,7 +6,7 @@
 > 
 > #### Department of Psychology, California State University, Stanislaus
 
-### Abstract
+## Abstract
 Ethereum Mining Research conducted to find out personally intriguing questions.
 
 Project inspecting relationship between personal ethereum mining revenue, and average eth mining revenue.
@@ -28,9 +28,9 @@ Project inspecting relationship between personal ethereum mining revenue, and av
 
   Understanding the relationship between *individual ETH mining revenue* compared to the *reported average ETH mining revenue* can help answer personal questions and concerns regarding minings value. For example, how average revenue trends relate to personal profits relative to hashrate, discover inefficient mining practices, and develop a deeper understanding of ETH mining difficulty to profitability. To fulfill the performance of a full-time miner, one must truly become a full-time miner. Meaning not taking away mining time from the machines. As a college student extraneous variables enter the situation making providing that of a full-time miner becomes distant. *I hypothesize personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue.*
 
-# METHODS
+## Methods
 
-## Materials
+### Materials
 
   Around 170 megahash is reached by the personal ETH miner. Which consists of 4 GPU’s: 2x Nvidia GeoForce RTX 2080 8gb, and 2x Nvidia Geforce RTX 3060Ti LHR. Internet access is gained through a wired connection into a wireless router extender. The miner uses Hive OS to operationalize the machine, Nbminer as the miner, and Ethermine for the pool. 
 
@@ -38,13 +38,13 @@ Project inspecting relationship between personal ethereum mining revenue, and av
 	
   BitInfoChart aggregates a historical chart of ETH’s mining profitability in USD per day for one megahash. Multiple timelines are available with daily data points from 3-months to 3-years to even all-time (7/30/15).
 
-## Procedures
+### Procedures
 
   15 weeks of personal mining revenue was gathered from November 28th, 2021 (Week 48, 2021) to March 18, 2022 (Week 12, 2022) with a mining rig averaging 170 megahash through Ethermine. Data was grouped weekly Sunday-Saturday, with the United States Dollar (USD) price of 1 ETH listed for the corresponding week. Revenue in ETH was multiplied with the price of 1 ETH each week to create a weekly estimate of personal miner revenue in USD.
   
 Reported average daily mining revenue collected on BitInfoChart was transformed into weekly revenue averages in USD per 1 megahash. To create an estimate of reported average mining revenue in USD relative to the hashrate output of the personal miner, weekly avg USD per 1 megahash was multiplied with 170. 
 
-# Results
+## Results
   
   A ![Paired Samples T-Test](https://github.com/akeyess/Eth_Mining_Research/blob/main/ETHrevenuePariedTtest.pdf) conducted on SPSS comparing personal mining revenue in USD (M= 46.51, SD= 16.81, N= 16) and reported average revenue in USD (M= 58.23, SD= 15.12, N= 16) revealed a significant difference in revenue; t(15)= 6.1, p = .001. Results fail to reject the hypothesis, personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue. Proving the personal miner is under performing based on the average reported revenue. 	
   
@@ -52,7 +52,7 @@ Reported average daily mining revenue collected on BitInfoChart was transformed 
     
   Visual analysis depicts clear discrepancies each week in ETH mining revenue between personal and reported rates. The initial revenue found in the first week, week 49 2021, is the closest the two values are throughout the whole study, a 0.58 cent difference. The line chart displays the downward trend of ETH mining revenue over the course of the study. Based on visual analysis, revenue is lower and drops are more significant in personal mining than in the reported average.
   
-# Discussion
+## Discussion
 
   Findings revealed the expected hypothesis to be true, personal mining operations would perform lower in revenue compared to the reported average mining revenue. Revenue from mining is multifactorial, hardware could crash, electricity could be cut off, or internet connection could be lost. 
 
