@@ -1,16 +1,13 @@
 # Personal Ethereum Mining Revenue Compared to Reported Average
 
-> #### B.A. Andrew Keyes 
-> 
+> #### Andrew Keyes 
 > #### Bachelor of Arts in Experimental Psychology
-> 
 > #### Department of Psychology, California State University, Stanislaus
+> #### March 2022
 
 ## Abstract
-Ethereum Mining Research conducted to find out personally intriguing questions.
 
-Project inspecting relationship between personal ethereum mining revenue, and average eth mining revenue.
-
+### Study comparing average revenue rate of Ethereum mining compared to revenue of my personal Ethereum miner in US Dollars (USD). ***Average weekly Ethereum mining revenue rate in USD per megahash, weekly personal Ethereum revenue, and the price of Ethereum*** was collected over the past 15 weeks to calculate average Ethereum mining revenue and personal mining revenue into USD per week. Results depict higher revenue in the average revenue rate of Etheruem mining in comparison to that of my personal miner.
 
 ## Introduction 
 
