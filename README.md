@@ -7,11 +7,11 @@
 
 ## Abstract
 
-### Study comparing average revenue rate of Ethereum mining compared to revenue of my personal Ethereum miner in US Dollars (USD). ***Average weekly Ethereum mining revenue rate in USD per megahash, weekly personal Ethereum revenue, and the price of Ethereum*** was collected over the past 15 weeks to calculate average Ethereum mining revenue and personal mining revenue into USD per week. Results depict higher revenue in the average revenue rate of Etheruem mining in comparison to that of my personal miner.
+### Study comparing average revenue rate of Ethereum mining compared to revenue of my personal Ethereum miner in US Dollars (USD) relative to megahash. ***Average weekly Ethereum mining revenue rate in USD per megahash, weekly personal Ethereum revenue, and the price of Ethereum*** was collected over 15 weeks to calculate average Ethereum mining revenue and personal mining revenue into USD per week. Results depict higher revenue in the average  rate of Etheruem mining in comparison to that of my personal miner relative to megahash.
 
 ## Introduction 
 
-  Ethereum (ETH) mining revenue is nothing new, yet still a practice new to so many. Blockchain technology is the protocol of ETH’s network operability and a passion that I participate in through ETH mining (*Proof of Work*). Revenue analysis of *personal mining operations* compared to the *reported network average* would reveal whether my machine outperformed the network in revenue relative to megahash. This study inspects the relationship between personal ETH mining revenue in US dollars and reported average mining revenue in US dollars. 
+  Ethereum (ETH) mining revenue is nothing new, yet still a practice new to so many. Blockchain technology provides operability of ETH’s network, and has become a passion that I participate in through ETH mining. Revenue analysis of *personal mining operations* in comparison to the *reported network average* would reveal whether my machine outperformed the network in revenue relative to megahash. This study inspects the relationship between personal ETH mining revenue in US dollars and reported average mining revenue in US dollars. 
   
    ETH is a cryptocurrency, currently operating under a *Proof of Work* (PoW) mechanism. PoW is a decentralized consensus protocol, in which miners: do the work, provide proof of their work, and act as directors of validation within the ETH ecosystem. ETH miners provide a “certificate of legitimacy” for transactions, balances, and market order. 
 
