@@ -7,7 +7,7 @@
 
 ## Abstract
 
-### Study comparing the revenue of my personal Ethereum miner in US Dollars (USD) to the average rate of Ethereum mining revenue relative to megahash. ***Average weekly Ethereum mining revenue rate in USD per megahash, weekly personal Ethereum revenue, and the price of 1 Ethereum*** was collected over 15 weeks to calculate average Ethereum mining revenue and personal mining revenue per week in USD. Results depict higher revenue in the average rate of Ethereum mining compared to the personal Ethereum miner relative to megahash.
+### Study comparing the revenue of a personal Ethereum miner in US Dollars (USD) to the average rate of Ethereum mining revenue relative to megahash, over November 28th, 2021 to March 18, 2022. ***Average weekly Ethereum mining revenue rate in USD per megahash, weekly personal Ethereum revenue, and the price of 1 Ethereum*** was collected over 15 weeks to calculate average Ethereum mining revenue and personal mining revenue per week in USD. Results depict higher revenue in the average rate of Ethereum mining compared to the personal Ethereum miner relative to megahash.
 
 ## Introduction 
 
